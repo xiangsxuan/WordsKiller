@@ -1,6 +1,6 @@
 # WordsKiller
 [![NuGet](https://img.shields.io/nuget/v/DotnetSpider.Extension.svg)](https://www.nuget.org/packages/DotnetSpider.Extension)
-[![GitHub license](https://img.shields.io/aur/license/yaourt.svg)](https://raw.githubusercontent.com/dotnetcore/DotnetSpider/master/LICENSE)
+
 
 单词杀是记忆单词的助手.可根据记忆曲线提醒用户复习单词,显示用户的学习历程图表等
 
@@ -21,7 +21,3 @@
 ![5](https://github.com/xiangsxuan/WordsKiller/blob/master/WordsKiller/images/toMemoryWords.png)
 学习记录
 ![6](https://github.com/xiangsxuan/WordsKiller/blob/master/WordsKiller/images/learningRecord.png)
-
-### 联系方式
-- WeChat: xiangshouxuan
-- Email:  xiangshouxuan@hotmail.com
