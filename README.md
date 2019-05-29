@@ -1,6 +1,4 @@
 # WordsKiller
-[![NuGet](https://img.shields.io/nuget/v/DotnetSpider.Extension.svg)](https://www.nuget.org/packages/DotnetSpider.Extension)
-
 
 单词杀是记忆单词的助手.可根据记忆曲线提醒用户复习单词,显示用户的学习历程图表等
 
